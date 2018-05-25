@@ -1,4 +1,4 @@
-# OverTheTop Issue Tracker
+# Project 1 Issue Tracker
 
 This repo allows our users to report issues, track upcoming features and suggest improvements with our game.
 
